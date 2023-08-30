@@ -8,3 +8,5 @@
 
 * There is no decimals.
 * We only use sum in this game, e.g. no subtraction, multiplication, or division.
+
+*Finished on 17-08-2015*
